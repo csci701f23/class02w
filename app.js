@@ -3,7 +3,7 @@ const add = function (x, y) {
 };
 
 const getColor1 = function () {
-  const color = [1, 0, 0];
+  const color = [240, 198, 41];
   return color;
 };
 
