@@ -23,7 +23,7 @@ const getColor4 = function () {
 };
 
 const getColor5 = function () {
-  const color = [25, 0, 255];
+  const color = [168, 80, 50];
   return color;
 };
 
