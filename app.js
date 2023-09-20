@@ -13,12 +13,12 @@ const getColor2 = function () {
 };
 
 const getColor3 = function () {
-  let color = [0, 255, 0];
+  const color = [0, 255, 0];
   return color;
 };
 
 const getColor4 = function () {
-  const color = [0, 0, 256];
+  let color = [0, 0, 256];
   return color;
 };
 
